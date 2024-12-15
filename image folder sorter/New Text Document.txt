@@ -1,0 +1,1 @@
+this program puts all the folders with atleast one image file to another folder named 'complete'
